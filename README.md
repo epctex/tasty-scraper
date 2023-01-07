@@ -92,17 +92,17 @@ The structure of each item in Tasty looks like this:
 ### Recipe Detail
 
 ```json
-https://www.dropbox.com/s/epnhr71sdda09hg/recipe.json?dl=0
+https://api.apify.com/v2/datasets/7uHdEg8f6mODflKcJ/items?clean=true&format=json
 ```
 
 ### Article Detail
 
 ```json
-https://www.dropbox.com/s/lz60ax9cyher6ws/article.json?dl=0
+https://api.apify.com/v2/datasets/d0LQfge68CZGItUNU/items?clean=true&format=json
 ```
 
 ### Compilation Detail
 
 ```json
-https://www.dropbox.com/s/kth0w9kgrby76h8/compilation.json?dl=0
+https://api.apify.com/v2/datasets/qwtTygaITMW1klZpc/items?clean=true&format=json
 ```
